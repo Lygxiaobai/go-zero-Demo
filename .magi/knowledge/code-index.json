@@ -1,0 +1,145 @@
+{
+  "files": [
+    {
+      "path": ".magi\\sessions\\session-1773049565407-ivqc4sz\\session.json",
+      "type": "source",
+      "language": "JSON",
+      "size": 162,
+      "lines": 8
+    },
+    {
+      "path": "hello\\etc\\hello-api.yaml",
+      "type": "source",
+      "language": "YAML",
+      "size": 41,
+      "lines": 3
+    },
+    {
+      "path": "hello\\hello.go",
+      "type": "source",
+      "size": 668,
+      "lines": 34
+    },
+    {
+      "path": "hello\\internal\\config\\config.go",
+      "type": "source",
+      "size": 157,
+      "lines": 10
+    },
+    {
+      "path": "hello\\internal\\handler\\hellohandler.go",
+      "type": "source",
+      "size": 693,
+      "lines": 31
+    },
+    {
+      "path": "hello\\internal\\logic\\hellologic.go",
+      "type": "source",
+      "size": 626,
+      "lines": 33
+    },
+    {
+      "path": "hello\\internal\\svc\\servicecontext.go",
+      "type": "source",
+      "size": 277,
+      "lines": 18
+    },
+    {
+      "path": "hello\\internal\\types\\types.go",
+      "type": "source",
+      "size": 197,
+      "lines": 12
+    }
+  ],
+  "directories": [
+    {
+      "path": ".idea",
+      "fileCount": 4,
+      "subdirCount": 0
+    },
+    {
+      "path": ".magi",
+      "fileCount": 0,
+      "subdirCount": 2
+    },
+    {
+      "path": ".magi\\knowledge",
+      "fileCount": 0,
+      "subdirCount": 0
+    },
+    {
+      "path": ".magi\\sessions",
+      "fileCount": 0,
+      "subdirCount": 1
+    },
+    {
+      "path": ".magi\\sessions\\session-1773049565407-ivqc4sz",
+      "fileCount": 1,
+      "subdirCount": 2
+    },
+    {
+      "path": ".magi\\sessions\\session-1773049565407-ivqc4sz\\plans",
+      "fileCount": 0,
+      "subdirCount": 0
+    },
+    {
+      "path": ".magi\\sessions\\session-1773049565407-ivqc4sz\\snapshots",
+      "fileCount": 0,
+      "subdirCount": 0
+    },
+    {
+      "path": "hello",
+      "fileCount": 2,
+      "subdirCount": 2
+    },
+    {
+      "path": "hello\\etc",
+      "fileCount": 1,
+      "subdirCount": 0
+    },
+    {
+      "path": "hello\\internal",
+      "fileCount": 0,
+      "subdirCount": 5
+    },
+    {
+      "path": "hello\\internal\\config",
+      "fileCount": 1,
+      "subdirCount": 0
+    },
+    {
+      "path": "hello\\internal\\handler",
+      "fileCount": 2,
+      "subdirCount": 0
+    },
+    {
+      "path": "hello\\internal\\logic",
+      "fileCount": 1,
+      "subdirCount": 0
+    },
+    {
+      "path": "hello\\internal\\svc",
+      "fileCount": 1,
+      "subdirCount": 0
+    },
+    {
+      "path": "hello\\internal\\types",
+      "fileCount": 1,
+      "subdirCount": 0
+    }
+  ],
+  "techStack": {
+    "languages": [
+      "Go"
+    ],
+    "frameworks": [],
+    "buildTools": [],
+    "testFrameworks": []
+  },
+  "dependencies": {
+    "dependencies": {},
+    "devDependencies": {}
+  },
+  "entryPoints": [],
+  "lastIndexed": 1773049565662
+}
