@@ -15,11 +15,12 @@ import (
 	"github.com/zeromicro/go-zero/rest"
 )
 
-var configFile = flag.String("f", "etc/hello-api.yaml", "the config file")
+var configFile = flag.String("f", "etc/hello-api.yam", "the config file")
 
 func main() {
 	flag.Parse()
 
+	//测试pr
 	var c config.Config
 	conf.MustLoad(*configFile, &c)
 
